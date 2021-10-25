@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497964098341",
+    "project_id": "travelskuy-dc8f2",
+    "storage_bucket": "travelskuy-dc8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497964098341:android:d1ee94da6fab614ca330cc",
+        "android_client_info": {
+          "package_name": "com.travel.travelskuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497964098341-8058ph88jnccjcru7ch5pfsvu23mmbp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADPjFdqSHOmmgnJKLUY5pgVtk0EdLI0Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497964098341-8058ph88jnccjcru7ch5pfsvu23mmbp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
